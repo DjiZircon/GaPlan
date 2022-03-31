@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/ga_tsp_test.dir/main.cc.o CMakeFiles/ga_tsp_test.dir/chro.cc.o CMakeFiles/ga_tsp_test.dir/population.cc.o  -o ../ga_tsp_test 

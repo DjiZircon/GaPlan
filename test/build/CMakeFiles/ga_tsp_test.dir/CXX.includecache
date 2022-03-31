@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/chro.cc
+chro.h
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/chro.h
+utils.h
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/utils.h
+
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/chro.h
+public.h
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/public.h
+
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/data_type.h
+
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/main.cc
+public.h
+-
+chro.h
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/chro.h
+population.h
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/population.h
+data_type.h
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/data_type.h
+
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/population.cc
+population.h
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/population.h
+
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/population.h
+public.h
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/public.h
+chro.h
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/chro.h
+
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/utils.h
+public.h
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/public.h
+data_type.h
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/data_type.h
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test2/ga_tsp_whole_test.cc
+iostream
+-
+cmath
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

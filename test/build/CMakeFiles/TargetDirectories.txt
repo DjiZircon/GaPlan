@@ -1,0 +1,3 @@
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/build/CMakeFiles/edit_cache.dir
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/build/CMakeFiles/rebuild_cache.dir
+/home/zircon-ubuntu/桌面/PartPickingPlan/GaPlan/test/build/CMakeFiles/ga_tsp_test.dir
